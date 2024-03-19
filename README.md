@@ -53,7 +53,7 @@ Project goal:
 
   <img width="168" alt="Evaluation Metrics - Test Set" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/f0e808c7-c073-45cb-8337-d9200e22a8ce">
 
-## chart_with_upwards_trend: Feature Importance
+## :chart_with_upwards_trend: Feature Importance
 * Here is a chart showing the sorted contribution of each column to the target column "Attrition":
 
   <img width="548" alt="Feature Importance" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/1fda86e7-1578-49ee-8ee8-634514d97791">
