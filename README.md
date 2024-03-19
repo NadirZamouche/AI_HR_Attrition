@@ -21,9 +21,13 @@ Project goal:
   
 * Used OneHotEncoder on these 3 categorical columns: Department, EducationField & JobRole.
 * Filled missing values using mean strategy.
-* Created boxplots for each column to check for outliers. Here is a box plot for MonthlyIncome column:
+* Created boxplots for each column to check for outliers. Here is a box plot for Monthly Income column:
 
   <img width="546" alt="Box Plot for MonthlyIncome" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/7bc043eb-844e-4150-8319-db0c205e451a">
+
+* Ploted histograms for each column to see if the data is balanced or not. Here is an Illustration:
+
+  <img width="736" alt="Histograms" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/4149b177-dd7c-4291-b23c-7d48accd7d83">
 
 
 ## :desktop_computer:	Machine Learning
