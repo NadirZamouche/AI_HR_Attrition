@@ -49,11 +49,11 @@ Project goal:
 
   <img width="372" alt="Best parameters" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/a7b3c1a1-606e-4375-a535-6161d27173da">
 
-  
 * Tested the final model on the test set and got excellent results:
+
   <img width="168" alt="Evaluation Metrics - Test Set" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/f0e808c7-c073-45cb-8337-d9200e22a8ce">
 
-  
+*   
 
 ## 🎯 Inference demo
 
