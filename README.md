@@ -25,10 +25,16 @@ Project goal:
 
   <img width="546" alt="Box Plot for MonthlyIncome" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/7bc043eb-844e-4150-8319-db0c205e451a">
 
-* Ploted histograms for each column to see if the data is balanced or not. Here is an Illustration:
+* Ploted histograms for each column to see if the data is balanced or not:
 
   <img width="736" alt="Histograms" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/4149b177-dd7c-4291-b23c-7d48accd7d83">
 
+* Ploted heat map for correlation matrix:
+
+<img width="671" alt="Correlation Matrix" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/82b16f3b-4271-4d30-bebf-f8c476194267">
+
+* Applied the standard scaler since there were outliers within the data.
+* Created the data pipeline for later use in machine learning.
 
 ## :desktop_computer:	Machine Learning
 
