@@ -45,8 +45,16 @@ Project goal:
   
   <img width="513" alt="Evaluation Metrics" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/892beb76-47db-45d1-a642-87b8a850b0f3">
 
+* Conducted hyper-parameter tuning for Random Forest Classifier, meticulously exploring various settings to ascertain the most effective combination for optimal performance.
 
-* 
+  <img width="372" alt="Best parameters" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/a7b3c1a1-606e-4375-a535-6161d27173da">
+
+  
+* Tested the final model on the test set and got excellent results:
+  <img width="168" alt="Evaluation Metrics - Test Set" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/f0e808c7-c073-45cb-8337-d9200e22a8ce">
+
+  
+
 ## 🎯 Inference demo
 
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
