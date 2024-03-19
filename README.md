@@ -85,8 +85,7 @@ Project goal:
   - Implement initiatives to engage and support new hires during their initial months with the company.
   - Proactively address any challenges or concerns faced by new employees to enhance their experience and retention.
 
-## ![brown-hammer-vector-icon-isolated-260nw-1763696510](https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/11bbf632-af54-49ac-8985-b9d96ae65f7c)
-Conclusion
+## 🔨 Conclusion
 The analysis demonstrates the profound impact of adjusting key factors on turnover rates. By reducing average worked time, increasing age, total working years, and tenure, turnover rrate decreased significantly from about 16% to nearly 3%. This underscores the importance of tailored retention strategies focusing on employee engagement and career development. Moving forward, continuous evaluation and adaptation of these strategies are crucial for sustaining employee retention and organizational success.
 
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
