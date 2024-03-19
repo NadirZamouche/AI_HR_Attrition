@@ -31,7 +31,7 @@ Project goal:
 
 * Ploted heat map for correlation matrix:
 
-<img width="671" alt="Correlation Matrix" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/82b16f3b-4271-4d30-bebf-f8c476194267">
+  <img width="671" alt="Correlation Matrix" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/82b16f3b-4271-4d30-bebf-f8c476194267">
 
 * Applied the standard scaler since there were outliers within the data.
 * Created the data pipeline for later use in machine learning.
