@@ -34,11 +34,19 @@ Project goal:
   <img width="671" alt="Correlation Matrix" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/82b16f3b-4271-4d30-bebf-f8c476194267">
 
 * Applied the standard scaler since there were outliers within the data.
-* Created the data pipeline for later use in machine learning.
+* Created the data pipeline encompassing all transformation steps for later use in machine learning.
 
 ## :desktop_computer:	Machine Learning
+* I applied the previous data pipeline.
+* Utilizing StratifiedShuffleSplit, I partitioned the data into two sets: 80% designated for training and 20% allocated for testing, ensuring representative stratification across the dataset.
+* Employed five distinct classification models, systematically assessing for overfitting through cross-validation techniques. Subsequently, I computed various evaluation metrics for each model and discerned the optimal choice based on the precision score.
+
+  <img width="644" alt="ROC Curve" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/536c5bff-bb91-4389-bbda-5cb151aa9a1f">
+  
+  <img width="513" alt="Evaluation Metrics" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/892beb76-47db-45d1-a642-87b8a850b0f3">
 
 
+* 
 ## 🎯 Inference demo
 
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
