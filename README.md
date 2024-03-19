@@ -16,7 +16,9 @@ Project goal:
 * Created a feature called AVG_Work_Time.
 * Removed non-related columns for my study like: EmployeeCount, EmployeeID, Gender, MaritalStatus, Over18 (all had the same value "Yes") & StandardHours (all had the same value "8").
 * Applied custom mapping on these 2 categorical columns: Attrition & BusinessTravel. Here is the Attrition Destribution:
+
   <img width="540" alt="Attrition Destribution" src="https://github.com/FlammeTik/AI_HR_Attrition/assets/95188070/a2ff2bf4-b46f-4932-9420-7cddf303f12e">
+  
 * Used OneHotEncoder on these 3 categorical columns: Department, EducationField & JobRole.
 * Filled missing values using mean strategy.
 * 
