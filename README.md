@@ -7,6 +7,7 @@ Project goal:
 
 ## ⏳ Dataset
 - Download the dataset files from this link: https://github.com/FlammeTik/AI_HR_Attrition/tree/d1f1f5312798d7126a1066c1f0494d3ed5b44d7d/Dataset
+- dataset
 
 ## :hammer_and_wrench: Requirements
 * Python 3.5+
