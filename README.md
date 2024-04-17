@@ -6,8 +6,8 @@ Project goal:
 - Task: Propose machine learning models to uncover insights and suggest improvements to motivate employees to stay.
 
 ## ⏳ Dataset
-- Download the dataset files from this link: https://github.com/FlammeTik/AI_HR_Attrition/tree/d1f1f5312798d7126a1066c1f0494d3ed5b44d7d/Dataset
-- dataset
+The dataset folder includes:
+- For each employee, the human resources department gives you the information in its possession.
 
 ## :hammer_and_wrench: Requirements
 * Python 3.5+
