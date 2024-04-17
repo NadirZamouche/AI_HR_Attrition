@@ -6,8 +6,11 @@ Project goal:
 - Task: Propose machine learning models to uncover insights and suggest improvements to motivate employees to stay.
 
 ## ⏳ Dataset
-The dataset folder includes:
-- For each employee, the human resources department gives you the information in its possession.
+The dataset folder includes 5 csv files:
+- general_data.csv: For each employee, the human resources department gives you the information in its possession.
+- manager_survey_data.csv: This file contains the last appraisal of each employee made by his or her manager in February 2015.
+- employee_survey_data.csv: This file comes from a survey submitted to employees in June 2015 by the HR department to get feedback on their quality of life at work.
+- in_time.csv & out_time.csv: Badges have been installed and used in the company for several years. Management has deemed it appropriate to provide you with employee entry and exit times over a selected period of the year representative of average activity for all departments.
 
 ## :hammer_and_wrench: Requirements
 * Python 3.5+
